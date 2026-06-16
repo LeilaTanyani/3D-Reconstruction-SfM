@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <th align="center">Input Reference Image</th>
-    <th align="center">3D Sparse Reconstruction</th>
+    <th align="center">Input Image</th>
+    <th align="center">3D Sparse Output</th>
   </tr>
   <tr>
     <td width="50%" align="center">
