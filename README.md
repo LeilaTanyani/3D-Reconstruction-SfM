@@ -1,12 +1,19 @@
 # 3D Reconstruction- Structure from Motion (SfM)
-<p align="center">
-  <img src="data/fountain.png" alt="Reference Image Input" width="48%" />
-  &nbsp;&nbsp;
-  <img src="output/output_result.gif" alt="3D Point Cloud Output" width="48%" />
-</p>
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Input Image</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3D Sparse Output</strong>
-</p>
+
+<table border="0">
+  <tr style="border: none;">
+    <td align="center" style="border: none;"><strong>Input Image</strong></td>
+    <td align="center" style="border: none;"><strong>3D Sparse Output</strong></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img src="data/fountain.png" alt="Reference Image Input" height="300" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="output/output_result.gif" alt="3D Point Cloud Output" height="300" />
+    </td>
+  </tr>
+</table>
 
 A lightweight, research-oriented Python implementation of a 3D reconstruction pipeline using Structure from Motion (SfM). This project handles both baseline two-view reconstruction and sequence-based multi-view reconstruction utilizing sparse feature tracking, epipolar geometry estimation, and triangulation.
 
