@@ -1,8 +1,19 @@
 # 3D Reconstruction- Structure from Motion (SfM)
 
-| Input Reference Image | 3D Sparse Reconstruction |
-| :---: | :---: |
-| ![Fountain Source](data/fountain.png) | ![3D Point Cloud](output/output_result.gif) |
+<table>
+  <tr>
+    <th align="center">Input Reference Image</th>
+    <th align="center">3D Sparse Reconstruction</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="data/fountain.png" alt="Fountain Source" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="output/output_result.gif" alt="3D Point Cloud" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 A lightweight, research-oriented Python implementation of a 3D reconstruction pipeline using Structure from Motion (SfM). This project handles both baseline two-view reconstruction and sequence-based multi-view reconstruction utilizing sparse feature tracking, epipolar geometry estimation, and triangulation.
 
