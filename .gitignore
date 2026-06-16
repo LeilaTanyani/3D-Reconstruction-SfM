@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+
+# Extra local test scripts or checkpoints
+sfm_starter.py
+.ipynb_checkpoints/
+
+# IDEs and System files
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Core Data & Datasets (Crucial for 3D Vision)
+*.zip
+fountain/
+data/
+
+# Pipeline Outputs / Point Clouds
+*.ply
+output/
+# Exception: Allow the specific GIF asset for documentation
+!output/output_result.gif
+
+# Python caching
+__pycache__/
+*.pyc
