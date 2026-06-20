@@ -3,18 +3,18 @@
 <table border="0">
   <tr style="border: none;">
     <td align="center" colspan="2" style="border: none;"><strong>Input Images</strong></td>
-    <td align="center" style="border: none;"><strong>3D Sparse Output</strong></td>
+    <td align="center" rowspan="2" style="border: none; vertical-align: middle;"><strong>3D Sparse Output</strong></td>
   </tr>
   <tr style="border: none;">
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; vertical-align: middle;">
       <img src="data/0001.png" alt="Left Input Image" height="300" />
       <br /><em>Left (0001.png)</em>
     </td>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; vertical-align: middle;">
       <img src="data/0002.png" alt="Right Input Image" height="300" />
       <br /><em>Right (0002.png)</em>
     </td>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; vertical-align: middle;">
       <img src="output/output_result.gif" alt="3D Point Cloud Output" height="300" />
     </td>
   </tr>
