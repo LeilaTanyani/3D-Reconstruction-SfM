@@ -2,12 +2,17 @@
 
 <table border="0">
   <tr style="border: none;">
-    <td align="center" style="border: none;"><strong>Input Image</strong></td>
+    <td align="center" colspan="2" style="border: none;"><strong>Input Images</strong></td>
     <td align="center" style="border: none;"><strong>3D Sparse Output</strong></td>
   </tr>
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <img src="data/fountain.png" alt="Reference Image Input" height="300" />
+      <img src="data/001.png" alt="Left Input Image" height="300" />
+      <br /><em>Left (001.png)</em>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="data/002.png" alt="Right Input Image" height="300" />
+      <br /><em>Right (002.png)</em>
     </td>
     <td align="center" style="border: none;">
       <img src="output/output_result.gif" alt="3D Point Cloud Output" height="300" />
