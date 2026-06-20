@@ -3,7 +3,7 @@
 <table border="0">
   <tr style="border: none;">
     <td align="center" colspan="2" style="border: none;"><strong>Input Images</strong></td>
-    <td align="center" rowspan="2" style="border: none; vertical-align: middle;"><strong>3D Sparse Output</strong></td>
+    <td align="center" style="border: none;"><strong>3D Sparse Output</strong></td>
   </tr>
   <tr style="border: none;">
     <td align="center" style="border: none; vertical-align: middle;">
