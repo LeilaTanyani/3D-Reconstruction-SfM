@@ -11,7 +11,7 @@
       <br /><em>Left (001.png)</em>
     </td>
     <td align="center" style="border: none;">
-      <img src="data/002.png" alt="Right Input Image" height="300" />
+      <img src="data/0002.png" alt="Right Input Image" height="300" />
       <br /><em>Right (002.png)</em>
     </td>
     <td align="center" style="border: none;">
