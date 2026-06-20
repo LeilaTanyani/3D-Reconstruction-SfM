@@ -7,12 +7,12 @@
   </tr>
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <img src="data/001.png" alt="Left Input Image" height="300" />
-      <br /><em>Left (001.png)</em>
+      <img src="data/0001.png" alt="Left Input Image" height="300" />
+      <br /><em>Left (0001.png)</em>
     </td>
     <td align="center" style="border: none;">
       <img src="data/0002.png" alt="Right Input Image" height="300" />
-      <br /><em>Right (002.png)</em>
+      <br /><em>Right (0002.png)</em>
     </td>
     <td align="center" style="border: none;">
       <img src="output/output_result.gif" alt="3D Point Cloud Output" height="300" />
